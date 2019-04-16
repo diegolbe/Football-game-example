@@ -6,7 +6,8 @@ var button;
 var button2;
 let playername = " ";
 let newname= false;
-var inp;let points= 0;
+var inp;
+let points= 0;
 
 let savedpoints= 0;
 let balls = [];
