@@ -96,7 +96,7 @@ scoreboard();
 
 
 
-          text("Press A to retry", 600,525);
+          text("Press tab to retry", 600,525);
   button2.show();
 
     }
@@ -122,7 +122,7 @@ function keyPressed(){
       }
   }
 
-  if (keyCode === 65){
+  if (keyCode === 9){
 
 
    location.reload();
