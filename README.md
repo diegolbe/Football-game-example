@@ -5,3 +5,4 @@ Press enter to shoot.
 When the game ends, click the button to enter your name and save your score.
 Press A to retry.
 
+All of these 
